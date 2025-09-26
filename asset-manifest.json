@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/repo-nev/static/css/main.3982bb5f.css",
+    "main.js": "/repo-nev/static/js/main.c9c1b5a6.js",
+    "index.html": "/repo-nev/index.html",
+    "main.3982bb5f.css.map": "/repo-nev/static/css/main.3982bb5f.css.map",
+    "main.c9c1b5a6.js.map": "/repo-nev/static/js/main.c9c1b5a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3982bb5f.css",
+    "static/js/main.c9c1b5a6.js"
+  ]
+}
